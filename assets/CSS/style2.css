@@ -34,3 +34,106 @@ a:hover {
 a:visited {
     color: #4aaaa5;
 }
+
+#hangman {
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+
+#hngname {
+    position: relative;
+    left: 10px;
+    bottom: 50px;
+    color: #ffff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4aaaa5;
+    height: 40px;
+    width: 200px;
+    padding-top: 20px;
+}
+
+#rpggame {
+    float: right;
+    position: relative;
+    top: -245px;
+    right: 500px;
+}
+
+#rpgname {
+    color: #ffff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4aaaa5;
+    height: 40px;
+    width: 200px;
+    clear: both;
+    position: relative;
+    bottom: 310px;
+    left: 260px;
+    padding-top: 20px;
+}
+
+#trvgame {
+    bottom: 505px;
+    clear: both;
+    position: relative;
+    float: right;
+    right: 250px;
+}
+
+#trvname {
+    color: #ffff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4aaaa5;
+    height: 40px;
+    width: 200px;
+    clear: both;
+    position: relative;
+    bottom: 570px;
+    right: -510px;
+    padding-top: 20px;
+}
+
+#wdgt {
+    position: relative;
+    top: -500px;
+    left: 10px;
+}
+
+#wdgtname {
+    color: #ffff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4aaaa5;
+    height: 40px;
+    width: 200px;
+    clear: both;
+    position: relative;
+    bottom: 570px;
+    right: -10px;
+    padding-top: 20px;
+
+}
+
+#RPS {
+    Position: relative;
+    top: -764px;
+    right: -260px;
+}
+
+#RPSname {
+    color: #ffff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4aaaa5;
+    height: 40px;
+    width: 200px;
+    clear: both;
+    position: relative;
+    top: -834px;
+    right: -260px;
+    padding-top: 20px;
+}

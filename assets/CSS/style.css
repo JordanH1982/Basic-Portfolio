@@ -3,7 +3,8 @@
     margin: 0;
     top: 0;
     left: 0;
-    padding: 2px;
+    z-index: 1;
+    
 }
 
 #left {
@@ -31,7 +32,7 @@
     text-align: right;
     float: left;
     height: 75px;
-    width: 880px;
+    width: 883px;
 }
 
 ul {
